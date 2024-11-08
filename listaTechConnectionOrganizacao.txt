@@ -1,0 +1,4 @@
+TU76-1S-9SN6,Organização,Luiz,Fernando,@Talk.Floripa
+TU87-6A-TW52,Organização,Arcangelo,Cruz,@Talk.Floripa
+TU77-P1-Z75F,Organização,Gilbran,Piedade,@Talk.Floripa
+TU9R-5T-7WRY,Organização,Mateus,Leonardo Amaro,@Talk.Floripa
